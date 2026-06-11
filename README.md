@@ -92,34 +92,33 @@ java CalculatorApp
 ### First Value Input
 
 ```markdown
-![First Value](First%20value%20(output).png)
+![First Value](Build-a-desktop-Application/First%20value%20(output).png)
 ```
 
 ### Second Value Input
 
 ```markdown
-![Second Value](Second%20value%20(output).png)
+![Second Value](Build-a-desktop-Application/Second%20value%20(output).png)
 ```
 
 ### Enter Operator
 
 ```markdown
-![Enter Operator](Enter%20operator(output).png)
+![Enter Operator](Build-a-desktop-Application/Enter%20operator(output).png)
 ```
 
 ### Result
 
 ```markdown
-![Result](Result(Output).png)
+![Result](Build-a-desktop-Application/Result(Output).png)
 ```
 
 ### Complete Output
 
 ```markdown
-![Output](output.png)
+![Output](Build-a-desktop-Application/output.png)
 ```
 
-> If the images do not display on GitHub, ensure the filenames exactly match (including spaces, capitalization, and file extensions). Renaming files to simple names like `first-value.png` or `result.png` can make linking easier.
 
 ---
 
