@@ -92,7 +92,7 @@ java CalculatorApp
 ### First Value Input
 
 ```markdown
-![First Value](Build-a-desktop-Application/First%20value%20(output).png)
+![First Value](Build%20a%20desktop%20Application/First%20value%20(output).png)
 ```
 
 ### Second Value Input
