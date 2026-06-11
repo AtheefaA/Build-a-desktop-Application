@@ -85,40 +85,6 @@ java CalculatorApp
 4. Enter an operator (`+`, `-`, `*`, `/`).
 5. View the calculated result.
 
----
-
-## 📷 Sample Output
-
-### First Value Input
-
-```markdown
-![First Value](Build%20a%20desktop%20Application/First%20value%20(output).png)
-```
-
-### Second Value Input
-
-```markdown
-![Second Value](Build-a-desktop-Application/Second%20value%20(output).png)
-```
-
-### Enter Operator
-
-```markdown
-![Enter Operator](Build-a-desktop-Application/Enter%20operator(output).png)
-```
-
-### Result
-
-```markdown
-![Result](Build-a-desktop-Application/Result(Output).png)
-```
-
-### Complete Output
-
-```markdown
-![Output](Build-a-desktop-Application/output.png)
-```
-
 
 ---
 
